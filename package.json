@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Library JS with TDD in pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustoSandim/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Augusto Sandim <augustosandim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AugustoSandim/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/AugustoSandim/js-tdd-course#readme"
+}
