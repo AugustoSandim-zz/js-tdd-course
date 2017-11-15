@@ -4,4 +4,4 @@ function sum() {
   return a * 100;
 }
 
-sum();
+sum()
